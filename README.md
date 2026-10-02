@@ -66,5 +66,4 @@ For the requested submission video:
 6. Open `outputs/packing_frames` and step through the 20 frames to demonstrate one-by-one stacking.
 7. Upload the recording to Google Drive and set **Anyone with the link → Viewer**.
 
-Do not include unnecessary personal files in the shared folder.
-# BOA-XR-Computer-Vision-AI-RD-Assignment
+
