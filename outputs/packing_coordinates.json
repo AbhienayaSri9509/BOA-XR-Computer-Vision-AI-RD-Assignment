@@ -1,0 +1,282 @@
+[
+  {
+    "id": 8,
+    "type": "large_crate",
+    "position_xyz": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "placed_dimensions": [
+      30.0,
+      30.0,
+      30.0
+    ]
+  },
+  {
+    "id": 9,
+    "type": "large_crate",
+    "position_xyz": [
+      0.0,
+      30.0,
+      0.0
+    ],
+    "placed_dimensions": [
+      30.0,
+      30.0,
+      30.0
+    ]
+  },
+  {
+    "id": 4,
+    "type": "flat_panel",
+    "position_xyz": [
+      30.0,
+      0.0,
+      0.0
+    ],
+    "placed_dimensions": [
+      10.0,
+      50.0,
+      50.0
+    ]
+  },
+  {
+    "id": 5,
+    "type": "flat_panel",
+    "position_xyz": [
+      40.0,
+      0.0,
+      0.0
+    ],
+    "placed_dimensions": [
+      10.0,
+      50.0,
+      50.0
+    ]
+  },
+  {
+    "id": 1,
+    "type": "standard_box",
+    "position_xyz": [
+      50.0,
+      0.0,
+      0.0
+    ],
+    "placed_dimensions": [
+      20.0,
+      20.0,
+      20.0
+    ]
+  },
+  {
+    "id": 2,
+    "type": "standard_box",
+    "position_xyz": [
+      0.0,
+      60.0,
+      0.0
+    ],
+    "placed_dimensions": [
+      20.0,
+      20.0,
+      20.0
+    ]
+  },
+  {
+    "id": 3,
+    "type": "standard_box",
+    "position_xyz": [
+      50.0,
+      20.0,
+      0.0
+    ],
+    "placed_dimensions": [
+      20.0,
+      20.0,
+      20.0
+    ]
+  },
+  {
+    "id": 20,
+    "type": "flat_box",
+    "position_xyz": [
+      70.0,
+      0.0,
+      0.0
+    ],
+    "placed_dimensions": [
+      10.0,
+      25.0,
+      25.0
+    ]
+  },
+  {
+    "id": 6,
+    "type": "long_beam",
+    "position_xyz": [
+      0.0,
+      80.0,
+      0.0
+    ],
+    "placed_dimensions": [
+      10.0,
+      10.0,
+      60.0
+    ]
+  },
+  {
+    "id": 7,
+    "type": "long_beam",
+    "position_xyz": [
+      20.0,
+      60.0,
+      0.0
+    ],
+    "placed_dimensions": [
+      10.0,
+      10.0,
+      60.0
+    ]
+  },
+  {
+    "id": 18,
+    "type": "long_box",
+    "position_xyz": [
+      30.0,
+      50.0,
+      0.0
+    ],
+    "placed_dimensions": [
+      10.0,
+      10.0,
+      40.0
+    ]
+  },
+  {
+    "id": 19,
+    "type": "long_box",
+    "position_xyz": [
+      80.0,
+      0.0,
+      0.0
+    ],
+    "placed_dimensions": [
+      10.0,
+      10.0,
+      40.0
+    ]
+  },
+  {
+    "id": 10,
+    "type": "medium_cube",
+    "position_xyz": [
+      10.0,
+      80.0,
+      0.0
+    ],
+    "placed_dimensions": [
+      15.0,
+      15.0,
+      15.0
+    ]
+  },
+  {
+    "id": 11,
+    "type": "medium_cube",
+    "position_xyz": [
+      30.0,
+      60.0,
+      0.0
+    ],
+    "placed_dimensions": [
+      15.0,
+      15.0,
+      15.0
+    ]
+  },
+  {
+    "id": 12,
+    "type": "medium_cube",
+    "position_xyz": [
+      50.0,
+      40.0,
+      0.0
+    ],
+    "placed_dimensions": [
+      15.0,
+      15.0,
+      15.0
+    ]
+  },
+  {
+    "id": 13,
+    "type": "medium_cube",
+    "position_xyz": [
+      80.0,
+      10.0,
+      0.0
+    ],
+    "placed_dimensions": [
+      15.0,
+      15.0,
+      15.0
+    ]
+  },
+  {
+    "id": 14,
+    "type": "small_filler",
+    "position_xyz": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "placed_dimensions": [
+      5.0,
+      5.0,
+      5.0
+    ]
+  },
+  {
+    "id": 15,
+    "type": "small_filler",
+    "position_xyz": [
+      20.0,
+      70.0,
+      0.0
+    ],
+    "placed_dimensions": [
+      5.0,
+      5.0,
+      5.0
+    ]
+  },
+  {
+    "id": 16,
+    "type": "small_filler",
+    "position_xyz": [
+      40.0,
+      50.0,
+      0.0
+    ],
+    "placed_dimensions": [
+      5.0,
+      5.0,
+      5.0
+    ]
+  },
+  {
+    "id": 17,
+    "type": "small_filler",
+    "position_xyz": [
+      90.0,
+      0.0,
+      0.0
+    ],
+    "placed_dimensions": [
+      5.0,
+      5.0,
+      5.0
+    ]
+  }
+]
